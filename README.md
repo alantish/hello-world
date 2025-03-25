@@ -1,2 +1,6 @@
 # hello-world
-saving my ideas
+
+### recent projects
+- RT1064 integrated board
+- G-foc-mini
+
